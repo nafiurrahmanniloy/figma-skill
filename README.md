@@ -247,5 +247,5 @@ Contributions welcome! Ideas:
 ---
 
 <p align="center">
-  Built for <a href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</a> by <a href="https://github.com/nafiurrahmanniloy">Nafi Ur Rahman</a>
+  Built for <a href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</a> by <a href="https://github.com/nafiurrahmanniloy">Nafiur Rahman Niloy</a>
 </p>
